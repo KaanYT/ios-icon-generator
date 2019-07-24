@@ -191,6 +191,12 @@ Icon-98@2x      196
 Icon-108@2x     216
 Icon-44@2x      88
 Icon-50@2x      100
+Icon-50         50
+Icon-72         72
+Icon-72@2x      144
+Icon-83         167
+Icon-57         57
+Icon-57@2x      114
 EOF`
 
 OLD_IFS=$IFS
